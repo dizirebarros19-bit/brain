@@ -1,0 +1,7 @@
+{
+    "Acer": {
+        "expected_life": 4,
+        "risk_factor": 0.4,
+        "failure_count": 1
+    }
+}
